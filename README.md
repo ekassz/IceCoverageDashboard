@@ -14,4 +14,7 @@
   
 ![image](https://github.com/user-attachments/assets/425920d5-8047-4648-b761-1e8ae9a05cc3)
 
+## Afterwards, we also redesigned the current Infographic to include the dashboard through the QR code for members to walk in and be informed right away:
+![image](https://github.com/user-attachments/assets/39f5f5f1-1c45-45e9-a527-80e6c1310d5a)
+
 
